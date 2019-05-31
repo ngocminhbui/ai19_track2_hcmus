@@ -1,0 +1,6 @@
+5-3-2018
+backup model view classifier tot nhat (3 view, BCE Loss)
+up len gdrive
+
+Chuan bi chay CAM, khong free last layers
+
